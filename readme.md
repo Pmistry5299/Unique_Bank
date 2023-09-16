@@ -8,6 +8,8 @@ The project consists of two main files:
 
 [**USER.db:**](./USER.db) This appears to be in SQLite database file storing user account information.
 
+The application interacts with the SQLite database to store and retrieve account information, including account numbers, PINs, and balances. Users are prompted for input through the command line, and the application provides feedback and options based on the user's selections.
+
 ## Key features and functionalities:
 
 **Account Creation:** Users can create new bank accounts with unique account numbers and PINs. The system generates a new account number automatically.
@@ -26,4 +28,4 @@ The project consists of two main files:
 
 **Interactive Menu:** Users can navigate through a menu-driven interface to access various banking services.
 
-This project is a simple example of how to create a console-based banking application using Python, with basic account management features.
+Overall, the project aims to provide basic banking functionalities, focusing on database integration using SQLite for storing and managing user account information. Users can create accounts, log in, and perform various banking operations such as deposits, withdrawals, and transfers. This project is a simple example of how to create a console-based banking application using Python, with basic account management features.
