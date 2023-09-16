@@ -1,7 +1,7 @@
 
 This GitHub project appears to be a simple Python script for managing a basic banking system. Here's a description for it:
 
-Project Description: Unique Bank Management System
+#Project Description: Unique Bank Management System
 
 The "Unique Bank" is a Python script designed to perform the basic operations of a bank system. This system allows users to create accounts, log in, check their account balances, deposit and withdraw funds, and even transfer money between accounts.
 
