@@ -2,6 +2,12 @@
 
 The "Unique Bank" is a Python script designed to perform the basic operations of a bank system. This system allows users to create accounts, log in, check their account balances, deposit and withdraw funds, and even transfer money between accounts.
 
+The project consists of two main files:
+
+[**UNIQUE_BANK.py:**](./UNIQUE_BANK.py) This file contains the Python code for the Unique Bank application.
+
+[**USER.db:**](./USER.db) This appears to be in SQLite database file storing user account information.
+
 ## Key features and functionalities:
 
 **Account Creation:** Users can create new bank accounts with unique account numbers and PINs. The system generates a new account number automatically.
